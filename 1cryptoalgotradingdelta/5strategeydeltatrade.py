@@ -595,8 +595,8 @@ def main():
     """Main function to run the trading bot"""
     
     # Configuration - REPLACE WITH YOUR ACTUAL API CREDENTIALS
-    API_KEY = 'ygYYbcdbU6SK1kbe1l8fthq8HusvuC'
-    API_SECRET = 'sE02X89lXlPq7lo6RcPLjxvrC08C4yRhcYe1b7wksJaJE8pgj6FaPzJNA9uU'
+    API_KEY = ''
+    API_SECRET = ''
     TRADING_SYMBOL = 'BTCUSD'  # Change to your preferred trading pair
     
     # Validate configuration
